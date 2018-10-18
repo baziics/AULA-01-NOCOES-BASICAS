@@ -1,2 +1,2 @@
-# AULA-1
-Noções Básicas de Séries Temporais - aula 01
+# Noções Básicas de Séries Temporais
+## Slides e códigos da aula 1 de Ecometria Avançada - Séries Temporais na USJT.
